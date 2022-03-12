@@ -1,2 +1,2 @@
 # Portfolio-website
-Portfolio website just using htmal and css
+Portfolio website  using htmal and css
